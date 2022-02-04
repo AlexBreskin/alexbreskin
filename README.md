@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 💼 Currently working at [Thoughtworks](https://www.thoughtworks.com/).
 - 💬 Ask me about .NET Core, PowerBI, Angular, React and integrating awesome IT solutions into your organisation
 - 📫 How to reach me: 
   - [@AlexBreskin](https://twitter.com/AlexBreskin)
